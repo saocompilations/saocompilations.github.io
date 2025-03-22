@@ -17,7 +17,8 @@ body {
 
 /* Increase the font size of the h1 element */
 .header h1 {
-  font-size: 40px;
+  font-size: 60px;
+  font-weight: bold;
 }
 
 /* Style the top navigation bar */
