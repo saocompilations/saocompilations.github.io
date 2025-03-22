@@ -9,7 +9,7 @@ body {
 
 /* Style the header */
 .header {
-  padding: 80px;
+  padding: 30px;
   text-align: left;
   background: #1abc9c;
   color: white;
@@ -17,7 +17,7 @@ body {
 
 /* Increase the font size of the h1 element */
 .header h1 {
-  font-size: 60px;
+  font-size: 100px;
   font-weight: bold;
 }
 
@@ -57,14 +57,14 @@ body {
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-  flex: 30%;
+  flex: 15%;
   background-color: #f1f1f1;
   padding: 20px;
 }
 
 /* Main column */
 .main {   
-  flex: 70%;
+  flex: 85%;
   background-color: white;
   padding: 20px;
 }
