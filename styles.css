@@ -9,7 +9,7 @@ body {
 
 /* Style the header */
 .header {
-  padding: 30px;
+  padding: 5px;
   text-align: left;
   background: #1abc9c;
   color: white;
@@ -20,7 +20,10 @@ body {
   font-size: 100px;
   font-weight: bold;
 }
-
+.header h4 {
+  font-size: 20px;
+  font-weight: 200;
+}
 /* Style the top navigation bar */
 .navbar {
   overflow: hidden;
