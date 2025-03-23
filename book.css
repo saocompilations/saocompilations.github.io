@@ -1,0 +1,439 @@
+/* unvisited link */
+a:link {
+    color: inherit;
+}
+
+/* visited link */
+a:visited {
+    color: inherit;
+}
+
+/* mouse over link */
+a:hover {
+    color: inherit;
+}
+
+/* selected link */
+a:active {
+    color: inherit;
+}
+
+a{
+	text-decoration: none;
+}
+h2{
+	padding-left: 0;
+	margin-top: 0;
+	padding-top: 0;
+	padding-right: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+	font-size: 105.882%;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	font-variant: normal;
+	text-transform: none;
+	text-align: left;
+	text-indent: 0;
+	line-height: 1.278em;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+p{
+	margin: 0px;
+}
+sub{
+	vertical-align: -10%;
+	font-size: 67%;
+}
+sup{
+	vertical-align: 33%;
+	font-size: 67%;
+}
+.s1{
+	background: transparent;
+}
+.p1{
+	padding-left: 0;
+	margin-top: 0;
+	padding-top: 0;
+	padding-right: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+	font-size: 144.118%;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	font-variant: normal;
+	text-transform: none;
+	text-align: left;
+	text-indent: 0;
+	line-height: 1.224em;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p2{
+	padding-left: 0;
+	margin-top: 0;
+	padding-top: 0;
+	padding-right: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+	font-size: 58.824%;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	font-variant: normal;
+	text-transform: uppercase;
+	text-align: left;
+	text-indent: 0;
+	line-height: 1.200em;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p3{
+	padding-left: 0;
+	margin-top: 0;
+	padding-top: 0;
+	padding-right: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: normal;
+	font-size: 100.000%;
+	font-family: "Georgia";
+	color: #000000;
+	letter-spacing: 0.000em;
+	font-variant: normal;
+	text-transform: none;
+	text-align: left;
+	text-indent: 0;
+	line-height: 1.176em;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p4{
+	font-size: 94.118%;
+	line-height: 1.188em;
+}
+.p5{
+	padding-left: 0;
+	margin-top: 0;
+	padding-top: 0;
+	padding-right: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: normal;
+	font-size: 117.647%;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	font-variant: normal;
+	text-transform: none;
+	text-align: left;
+	text-indent: 0;
+	line-height: 1.200em;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p6{
+	font-size: 100.000%;
+	line-height: 1.176em;
+}
+.p7{
+	padding-left: 0;
+	margin-top: 0;
+	padding-top: 0;
+	padding-right: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-style: italic;
+	font-weight: 700;
+	font-stretch: normal;
+	font-size: 70.588%;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	font-variant: normal;
+	text-transform: none;
+	text-align: left;
+	text-indent: 0;
+	line-height: 1.250em;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p8{
+	margin-bottom: 1.245%;
+	font-size: 94.118%;
+	line-height: 1.188em;
+}
+.p9{
+	margin-bottom: 1.245%;
+}
+.p10{
+	margin-top: 0;
+	padding-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+	font-size: 94.118%;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	font-variant: normal;
+	text-transform: none;
+	text-align: left;
+	line-height: 1.188em;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p11{
+	font-weight: 700;
+	font-size: 94.118%;
+	line-height: 1.188em;
+}
+.p12{
+	padding-left: 0;
+	margin-top: 1.660%;
+	padding-top: 0;
+	padding-right: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: normal;
+	font-size: 70.588%;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	font-variant: normal;
+	text-transform: none;
+	text-align: left;
+	text-indent: 0;
+	line-height: 1.394em;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p13{
+	margin-top: 0;
+	font-style: italic;
+	font-size: 94.118%;
+	font-family: "Georgia";
+	background: rgba(0,0,0,0.000);
+	line-height: 1.188em;
+}
+.p14{
+	margin-top: 0;
+	font-size: 94.118%;
+	font-family: "Georgia";
+	background: rgba(0,0,0,0.000);
+	line-height: 1.188em;
+}
+.p15{
+	margin-top: 0;
+	font-size: 100.000%;
+	font-family: "Georgia";
+	background: rgba(0,0,0,0.000);
+	line-height: 1.176em;
+}
+.p16{
+	font-weight: 400;
+}
+.p17{
+	padding-left: 0;
+	margin-top: 0;
+	padding-top: 0;
+	padding-right: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-style: normal;
+	font-weight: 500;
+	font-stretch: normal;
+	font-size: 70.588%;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	font-variant: normal;
+	text-transform: none;
+	text-align: center;
+	text-indent: 0;
+	line-height: 1.250em;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p18{
+	text-align: left;
+}
+.p19{
+	font-style: italic;
+	font-size: 94.118%;
+	line-height: 1.188em;
+}
+.p20{
+	margin-top: 0;
+	padding-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: normal;
+	font-size: 94.118%;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	font-variant: normal;
+	text-transform: none;
+	text-align: left;
+	line-height: 1.188em;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p21{
+	font-weight: 700;
+}
+.c1{
+	background: transparent;
+}
+.c2{
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: normal;
+	font-family: "Helvetica Neue";
+}
+.c3{
+	font-style: italic;
+	font-weight: 400;
+	font-stretch: normal;
+	font-family: "Georgia";
+}
+.c4{
+}
+.c5{
+	background: #FFFFFF;
+}
+.c6{
+	font-style: italic;
+	font-weight: 400;
+	font-stretch: normal;
+	font-family: "Helvetica Neue";
+}
+.c7{
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: normal;
+	font-family: "Georgia";
+}
+.c8{
+	color: #888888;
+}
+.c9{
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+	font-family: "Helvetica Neue";
+	background: #FFFFFF;
+}
+.c10{
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: normal;
+	font-family: "Helvetica Neue";
+	background: #FFFFFF;
+}
+.c11{
+	font-style: italic;
+	font-weight: 400;
+	font-stretch: normal;
+	font-family: "Georgia";
+	background: #FFFFFF;
+}
+.c12{
+	background: #FFFFFF;
+}
+.c13{
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: normal;
+	font-family: "Georgia";
+	background: #FFFFFF;
+}
+.c14{
+	font-style: italic;
+	font-weight: 400;
+	font-stretch: normal;
+	font-family: "Helvetica Neue";
+	background: #FFFFFF;
+}
+.c15{
+	font-style: normal;
+	font-weight: 500;
+	font-stretch: normal;
+	font-family: "Helvetica Neue";
+	background: #FFFFFF;
+}
+.c16{
+	background: #FFFFFF;
+}
+.body {
+	width: 100%;
+}
+.underline {
+	text-decoration: underline;
+}
+.orientation-opposed .underline {
+	text-decoration: overline;
+}
+.strikethrough {
+	text-decoration: line-through;
+}
+.underline-strikethrough {
+	text-decoration: underline line-through;
+}
+.orientation-opposed .underline-strikethrough {
+	text-decoration: overline line-through;
+}
