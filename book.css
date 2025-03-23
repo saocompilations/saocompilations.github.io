@@ -32,7 +32,7 @@ h2{
 	font-weight: 700;
 	font-stretch: normal;
 	font-size: 105.882%;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	color: #000000;
 	letter-spacing: 0.000em;
 	font-variant: normal;
@@ -71,7 +71,7 @@ sup{
 	font-weight: 700;
 	font-stretch: normal;
 	font-size: 144.118%;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	color: #000000;
 	letter-spacing: 0.000em;
 	font-variant: normal;
@@ -96,7 +96,7 @@ sup{
 	font-weight: 700;
 	font-stretch: normal;
 	font-size: 58.824%;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	color: #000000;
 	letter-spacing: 0.000em;
 	font-variant: normal;
@@ -121,7 +121,7 @@ sup{
 	font-weight: 400;
 	font-stretch: normal;
 	font-size: 100.000%;
-	font-family: "Georgia";
+	font-family: "Georgia", "Times New Roman", serif;
 	color: #000000;
 	letter-spacing: 0.000em;
 	font-variant: normal;
@@ -150,7 +150,7 @@ sup{
 	font-weight: 400;
 	font-stretch: normal;
 	font-size: 117.647%;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	color: #000000;
 	letter-spacing: 0.000em;
 	font-variant: normal;
@@ -179,7 +179,7 @@ sup{
 	font-weight: 700;
 	font-stretch: normal;
 	font-size: 70.588%;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	color: #000000;
 	letter-spacing: 0.000em;
 	font-variant: normal;
@@ -210,7 +210,7 @@ sup{
 	font-weight: 700;
 	font-stretch: normal;
 	font-size: 94.118%;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	color: #000000;
 	letter-spacing: 0.000em;
 	font-variant: normal;
@@ -239,7 +239,7 @@ sup{
 	font-weight: 400;
 	font-stretch: normal;
 	font-size: 70.588%;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	color: #000000;
 	letter-spacing: 0.000em;
 	font-variant: normal;
@@ -257,21 +257,21 @@ sup{
 	margin-top: 0;
 	font-style: italic;
 	font-size: 94.118%;
-	font-family: "Georgia";
+	font-family: "Georgia", "Times New Roman", serif;
 	background: rgba(0,0,0,0.000);
 	line-height: 1.188em;
 }
 .p14{
 	margin-top: 0;
 	font-size: 94.118%;
-	font-family: "Georgia";
+	font-family: "Georgia", "Times New Roman", serif;
 	background: rgba(0,0,0,0.000);
 	line-height: 1.188em;
 }
 .p15{
 	margin-top: 0;
 	font-size: 100.000%;
-	font-family: "Georgia";
+	font-family: "Georgia", "Times New Roman", serif;
 	background: rgba(0,0,0,0.000);
 	line-height: 1.176em;
 }
@@ -289,7 +289,7 @@ sup{
 	font-weight: 500;
 	font-stretch: normal;
 	font-size: 70.588%;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	color: #000000;
 	letter-spacing: 0.000em;
 	font-variant: normal;
@@ -320,7 +320,7 @@ sup{
 	font-weight: 400;
 	font-stretch: normal;
 	font-size: 94.118%;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	color: #000000;
 	letter-spacing: 0.000em;
 	font-variant: normal;
@@ -343,13 +343,13 @@ sup{
 	font-style: normal;
 	font-weight: 400;
 	font-stretch: normal;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 .c3{
 	font-style: italic;
 	font-weight: 400;
 	font-stretch: normal;
-	font-family: "Georgia";
+	font-family: "Georgia", "Times New Roman", serif;
 }
 .c4{
 }
@@ -360,13 +360,13 @@ sup{
 	font-style: italic;
 	font-weight: 400;
 	font-stretch: normal;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 .c7{
 	font-style: normal;
 	font-weight: 400;
 	font-stretch: normal;
-	font-family: "Georgia";
+	font-family: "Georgia", "Times New Roman", serif;
 }
 .c8{
 	color: #888888;
@@ -375,21 +375,21 @@ sup{
 	font-style: normal;
 	font-weight: 700;
 	font-stretch: normal;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	background: #FFFFFF;
 }
 .c10{
 	font-style: normal;
 	font-weight: 400;
 	font-stretch: normal;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	background: #FFFFFF;
 }
 .c11{
 	font-style: italic;
 	font-weight: 400;
 	font-stretch: normal;
-	font-family: "Georgia";
+	font-family: "Georgia", "Times New Roman", serif;
 	background: #FFFFFF;
 }
 .c12{
@@ -399,21 +399,21 @@ sup{
 	font-style: normal;
 	font-weight: 400;
 	font-stretch: normal;
-	font-family: "Georgia";
+	font-family: "Georgia", "Times New Roman", serif;
 	background: #FFFFFF;
 }
 .c14{
 	font-style: italic;
 	font-weight: 400;
 	font-stretch: normal;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	background: #FFFFFF;
 }
 .c15{
 	font-style: normal;
 	font-weight: 500;
 	font-stretch: normal;
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	background: #FFFFFF;
 }
 .c16{
